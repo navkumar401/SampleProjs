@@ -1,0 +1,12 @@
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\bin\Debug\net8.0-ios\iOSBindingSample.dll
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\bin\Debug\net8.0-ios\iOSBindingSample.pdb
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\_ProcessedBundleResourcesPath.items
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\_ProcessedContentPath.items
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\iOSBindingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\iOSBindingSample.AssemblyInfoInputs.cache
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\iOSBindingSample.AssemblyInfo.cs
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\iOSBindingSample.csproj.CoreCompileInputs.cache
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\iOSBindingSample.dll
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\refint\iOSBindingSample.dll
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\iOSBindingSample.pdb
+C:\DDrive\Collect\Sample\iOSBindingSample\iOSBindingSample\obj\Debug\net8.0-ios\ref\iOSBindingSample.dll

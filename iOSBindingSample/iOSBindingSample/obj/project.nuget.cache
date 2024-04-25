@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vGagDeTeVMko0V8tUaiKa5rrs7FI3h9BYPsoUfMYl82PG6FEMkch4eYceOwcoglcFci95eDYw9WQOc2rCLji2w==",
+  "success": true,
+  "projectFilePath": "C:\\DDrive\\Collect\\Sample\\iOSBindingSample\\iOSBindingSample\\iOSBindingSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kumarnav\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
